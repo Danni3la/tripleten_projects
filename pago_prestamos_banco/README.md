@@ -22,4 +22,5 @@ Determinar si el estado civil, el número de hijos, el nivel de ingresos y el pr
 ## **Librerías Usadas**
 
 pandas
+
 numpy
